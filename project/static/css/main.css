@@ -142,3 +142,14 @@ body {
   .input-group input {
     width: 100%;
   }
+
+  .error {
+    color: red;
+    font-size: .8em;
+    background-color: #ffffff;
+  }
+
+  .container {
+    max-width: 500px;
+    padding-top: 50px;
+    }
